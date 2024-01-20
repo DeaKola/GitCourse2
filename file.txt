@@ -1,0 +1,7 @@
+i
+changes 
+:wq
+i
+eegge
+:w
+q
